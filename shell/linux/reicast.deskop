@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Reicast
+GenericName=Dreamcast Emulator
+GenericName[de]=Dreamcast-Emulator
+GenericName[fr]=Émulateur Dreamcast
+GenericName[es]=Emulador de Dreamcast
+GenericName[pt]=Emulador de Dreamcast
+GenericName[it]=Emulatore Dreamcast
+Comment=Play Dreamcast games on your PC
+Comment[de]=Spiele Dreamcast auf deinem PC
+Comment[fr]=Jeux Dreamcast sur votre PC
+Comment[es]=Juegos Dreamcast en su PC
+Comment[pt]=Jogos Dreamcast no seu PC
+Comment[it]=Giochi Dreamcast sul tuo PC
+Icon=reicast
+Exec=nosym-reicast.elf
+Terminal=false
+StartupNotify=false
+Keywords=sega;emulator;naomi;
+Categories=Game;Emulator;
